@@ -22,16 +22,22 @@ Got questions? Join
 -->
 
 **Token address:**
-
+0xd4C182C9889B90b777d31dc5C1B0b5C30CB30f7f
 
 **Issuer's official website:**
+http://www.foz.cash
 
-
-**Description:** <!-- 1-3 sentences for the token's description: at least one on the token issuer (eg., the product they are building) and one on token's purpose. -->
-
+**Description:** 
+FORZA completely improves the power of digital payment by
+creating a crypto coin that can be exchanged between
+real money, product, automotive and people all around the globe. The
+mission of FORZA is to make the crypto payment accessible to
+everyone. With the power of smart contracts FORZA are
+creating a new approach to payment where people can actually
+win and have more future payment
 
 **A link to the official contract address confirmation:** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. If the confirmation is not visible immediately, include an explanation of how to find it. -->
-
+https://etherscan.io/address/0xd4C182C9889B90b777d31dc5C1B0b5C30CB30f7f
 
 **At least 2 links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
 <!--
@@ -42,5 +48,5 @@ Note:
 * We are looking for substance in reviews. BitcoinTalk announcements and ICO aggregator pages are NOT an acceptable source. Reviews like "Interesting project, good luck", "to the moon" are NOT acceptable.
 * Project's social media channels (Reddit, Twitter, Facebook, Telegram and others) are not acceptable.
 -->
-1. 
-2.
+1. https://medium.com/@coinforza/website-http-www-foz-cash-337def0eb6b2
+2. https://medium.com/@coinforza/how-to-vote-forza-foz-on-mercatox-8065128abce3
